@@ -1,5 +1,12 @@
 # liveasy
 
+authentication_demo.mp4 video is also uploaded of the demo of the app authentication 
+
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
